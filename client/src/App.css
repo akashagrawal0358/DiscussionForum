@@ -1,0 +1,9 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.container{
+  max-width: 120rem;
+  height: 100vh;
+}

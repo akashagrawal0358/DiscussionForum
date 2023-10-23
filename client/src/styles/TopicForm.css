@@ -1,0 +1,38 @@
+.topic-form {
+    max-width: 400px;
+    margin: 10rem auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+  }
+  
+  .topic-form h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .topic-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    resize: none;
+  }
+  
+  .topic-form button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .topic-form button:hover {
+    background-color: #0056b3;
+  }
+  
